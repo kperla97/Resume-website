@@ -1,1 +1,2 @@
-# Resume-website
+# Building a resume 
+#Components used
